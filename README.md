@@ -1,5 +1,5 @@
-# Cybersecurity_ADBInstitue
-Cybersecurity Fundamentals — Notes & Reference
+# Cybersecurity Course by ADBInstitute
+# Cybersecurity Fundamentals — Notes & Reference
 
 Concise notes and structured resources covering core cybersecurity concepts:
 - Data Protection
@@ -8,7 +8,7 @@ Concise notes and structured resources covering core cybersecurity concepts:
 
 ---
 
-#About
+# About
 
 This repository is designed as a **quick reference and learning base** for cybersecurity fundamentals.
 
