@@ -1,5 +1,5 @@
 # Cybersecurity_ADBInstitue
-# 🔐 Cybersecurity Fundamentals
+Cybersecurity Fundamentals — Notes & Reference
 
 Concise notes and structured resources covering core cybersecurity concepts:
 - Data Protection
