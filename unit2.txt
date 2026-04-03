@@ -1,0 +1,60 @@
+Unit 2: Recognizing Cyberattacks
+
+🔹 Incident vs Breach
+incident refers to a potential security event whereas Breach refers to confirmed data exposure
+
+🔹 Attack Motivations
+Financial gain (~90%)
+Espionage
+Disruption
+Resource exploitation
+
+🔹 Attack Categories
+1. Social Engineering
+Phishing (Email)
+Smishing (SMS)
+Vishing (Voice)
+Spear phishing (Targeted)
+🔹Types of Malware
+Type	        !    Function
+Ransomware	  !    Encrypts data for ransom
+Spyware	      !    Steals information
+Trojan	      !    Disguised malicious software
+Worm	        !    Self-propagating
+Virus	        !    Requires user action
+Adware	      !    Displays unwanted ads
+
+🔹Network Attacks
+    DDoS (Traffic flooding)
+    MITM (Interception)
+    DNS Hijacking (Redirection) Network Attacks
+    XSS (Script injection)
+
+🔹Advanced Threats
+    APT (Persistent attackers)
+    Credential stuffing
+    XSS (Script injection)
+    Supply chain attacks
+🔹 Physical Attacks
+    Shoulder surfing
+    Dumpster diving
+    Tailgating
+
+🔹 Warning Signs
+Unusual logins
+Slow system/network
+Unknown transactions
+Pop-ups / redirects
+Unauthorized changes
+
+🔹 Phishing Detection Checklist
+
+Red Flags:
+Urgent tone
+Suspicious links
+Grammar issues
+
+Safe Practices:
+Verify sender
+Avoid direct links
+Use official websites
