@@ -1,0 +1,48 @@
+Cybersecurity Fundamentals — Notes
+
+A structured knowledge base covering core cybersecurity concepts:
+    Data Protection
+    Cyberattack Recognition
+    Security Tools & Incident Response
+
+Overview
+
+Cybersecurity focuses on protecting:
+    Data
+    Systems
+    Networks
+
+From:
+    Unauthorized access
+    Theft
+    Damage
+    Disruption
+(Core idea: Security is a continuous process, not a one-time setup.)
+
+Unit 1: Data Protection
+🔹 Definition
+Cybersecurity is the practice of safeguarding digital assets from threats.
+
+🔹 Why It Matters
+Global cybercrime cost:
+$6 trillion (2021)
+$10 trillion (projected)
+Targets:
+Individuals
+Small businesses
+Enterprises
+Governments
+
+Key Risks
+    IoT vulnerabilities
+    Increasing attack surface
+    Undetected breaches
+
+Real-World Examples
+    National infrastructure attacks
+    Corporate data leaks
+    Supply chain compromises
+    IoT-based intrusions
+🔹 Core Insight
+Prevention + Awareness = First line of defense
+
