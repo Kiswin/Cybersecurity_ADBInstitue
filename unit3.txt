@@ -1,0 +1,10 @@
+Unit 3: Data Security Tools
+🔹 Security Lifecycle
+  Identify → Protect → Detect → Respond → Recover
+🔹 CIA Triad
+Principle          !    Description
+Confidentiality	   !    Restricted access
+Integrity	         !    Data accuracy
+Availability	     !    Reliable access
+
+
