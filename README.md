@@ -1,10 +1,12 @@
 # Cybersecurity Course by ADBInstitute
-# Cybersecurity Fundamentals — Notes & Reference
+![Static Badge](https://img.shields.io/badge/ADBI-orange) | ![Static Badge](https://img.shields.io/badge/Cybersecurity-yellow)
+
+Cybersecurity Fundamentals — Notes & Reference
 
 Concise notes and structured resources covering core cybersecurity concepts:
-- Data Protection
-- Cyberattack Recognition
-- Security Tools & Incident Response
+>Data Protection
+>>Cyberattack Recognition
+>>>Security Tools & Incident Response
 
 ---
 
